@@ -10,7 +10,7 @@ First Year undergrad 🎓 2026
 
 21 y/o INTP-A
 
-he/him they/them
+he/him
 
 - 🔭 I’m currently working on myself
 - 🌱 learning everything I can
