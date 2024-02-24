@@ -3,7 +3,6 @@
 ### I'm Pasindu, but my friends call me Kasana.
 
 <img src="https://static.neris-assets.com/images/personality-types/headers/fb/intp-personality-type-header.png">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KaSaNaa&show_icons=true&theme=radical">
 
 # 💫 About Me:
 a skeptic with an insatiable appetite for knowledge and a knack for diving deep into the depths of science 🔭, technology 💻, and philosophy 💭
