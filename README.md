@@ -1,4 +1,4 @@
-# To whomever stalks my profile, now you're a nigga?
+# To whomever stalks my profile, now you're a nigga
 
 ## I'm Pasindu, but my friends call me Kasana
 
