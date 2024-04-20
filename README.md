@@ -1,6 +1,6 @@
-# To whomever stalks my profile, now you're a nigga
+### To whomever stalks my profile, now you're a nigga
 
-## I'm Pasindu, but my friends call me Kasana
+# JavaScript, Kotlin, & Machine Learning Developer (rookie!!!)
 
 ![GitHub Header](https://github.com/KaSaNaa/KaSaNaa/blob/main/github-header-image%20(1).png?raw=true "GitHub Header")
 
