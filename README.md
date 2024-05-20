@@ -1,6 +1,6 @@
 ### To whomever stalks my profile, now you're a nigga
 
-# JavaScript, Kotlin, & Machine Learning Developer (rookie!!!)
+# Full Stack Rookie
 
 ![GitHub Header](https://github.com/KaSaNaa/KaSaNaa/blob/main/github-header-image%20(1).png?raw=true "GitHub Header")
 
