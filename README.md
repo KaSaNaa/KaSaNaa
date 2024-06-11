@@ -26,16 +26,7 @@ a skeptic with an insatiable appetite for knowledge and a knack for diving deep 
 
 ## 📊 GitHub Stats
 
-<div style="text-align: center;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaSaNaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaSaNaa&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaSaNaa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</center>
-</div>
 
 ## 🏆 GitHub Trophies
 
