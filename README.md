@@ -10,7 +10,7 @@ a skeptic with an insatiable appetite for knowledge and a knack for diving deep 
 
 ### Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313qqb44747pozreki3fhuppdcka&cover_image=true&theme=natemoo-re&show_offline=false&background_color=666666&interchange=true&bar_color=3fff38&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313qqb44747pozreki3fhuppdcka&redirect=true)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313qqb44747pozreki3fhuppdcka&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)
 
 ## 🌐 Socials
 
