@@ -1,4 +1,4 @@
-$${\color{orange}ⓘ This \space user \space is \space suspected \space to \space be \space a \space part \space of \space an \space online \space terrorist \space organization.}$$
+$${\color{orange}ⓘ \space This \space user \space is \space suspected \space to \space be \space a \space part \space of \space an \space online \space terrorist \space organization.}$$
 
 # Full Stack Rookie
 
