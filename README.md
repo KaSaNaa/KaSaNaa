@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaSaNaa/KaSaNaa/main/output-onlinegiftools.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaSaNaa/KaSaNaa/main/output-onlinegiftools.gif">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaSaNaa/KaSaNaa/main/output-onlinegiftools.gif">
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n0fucksgivenhere) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasinduranawakage) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19245160) 
