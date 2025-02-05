@@ -28,7 +28,7 @@ jobs:
         cp ../README.md README.md
         git add README.md
         git commit -m "Update README from profile"
-        git push https://github.com/KaSaNaa/kasanaa.github.io HEAD:main
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/KaSaNaa/kasanaa.github.io HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
