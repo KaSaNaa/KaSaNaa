@@ -36,3 +36,4 @@ jobs:
         github_token: ${{ secrets.TOKEN }}
         publish_dir: ./_site
         publish_branch: gh-pages
+        cname: kasanaa.github.io
