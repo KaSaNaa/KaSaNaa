@@ -28,9 +28,9 @@ jobs:
         cp ../README.md README.md
         git add README.md
         git commit -m "Update README from profile"
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/KaSaNaa/kasanaa.github.io HEAD:main
+        git push https://${{ secrets.TOKEN }}@github.com/KaSaNaa/kasanaa.github.io HEAD:main
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
 
     - name: Build Jekyll for GitHub Pages
       uses: actions/jekyll-build-pages@v1.0.13
