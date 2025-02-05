@@ -13,22 +13,29 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Copy README from profile repo
+      run: |
+        rm -rf temp_repo
+        git clone https://github.com/KaSaNaa/KaSaNaa temp_repo
+        cp temp_repo/README.md README.md
+
+    - name: Commit and push README to kasanaa.github.io
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        git clone https://github.com/KaSaNaa/kasanaa.github.io
+        cd kasanaa.github.io
+        cp ../README.md README.md
+        git add README.md
+        git commit -m "Update README from profile"
+        git push https://github.com/KaSaNaa/kasanaa.github.io HEAD:main
+
     - name: Build Jekyll for GitHub Pages
       uses: actions/jekyll-build-pages@v1.0.13
       with:
-        # Directory where the source files reside.
         source: ./
-        # Output directory of the build. Although it can be nested inside the source, it cannot be the same as the source directory.
         destination: ./_site
-        # Publishes posts with a future date. When set to true, the build is made with the --future option which overrides the future option that may be set in a Jekyll configuration file.
-        # future: # optional
-        # The SHA-1 of the git commit for which the build is running. Default to GITHUB_SHA.
-        # build_revision: # optional, default is ${{ github.sha }}
-        # Verbose output
-        # verbose: # optional, default is true
-        # GitHub token
         token: ${{ github.token }}
-          
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
