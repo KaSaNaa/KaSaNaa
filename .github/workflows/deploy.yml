@@ -21,7 +21,7 @@ jobs:
 
     - name: Commit and push README to kasanaa.github.io
       run: |
-        git config --global user.name 'github-actions[bot]'
+        git config --global user.name 'KaSaNaa'
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
         git clone https://github.com/KaSaNaa/kasanaa.github.io
         cd kasanaa.github.io
